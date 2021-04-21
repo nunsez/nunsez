@@ -2,8 +2,7 @@
 
 - - -
 
-### Glad to see you here &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=nunsez.360091896) &nbsp;
-![](https://komarev.com/ghpvc/?username=nunsez&color=blue)
+### Glad to see you here &nbsp; ![](https://komarev.com/ghpvc/?username=nunsez&color=blue&label=visitors)
 
 ⚡ I'm a frontend JavaScript developer. Currently learning TypeScript.
 
@@ -23,9 +22,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -33,8 +29,11 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunsez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunsez&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunsez&layout=compact" />
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunsez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nunsez)](https://github.com/anuraghazra/github-readme-stats)
