@@ -28,12 +28,9 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+<span>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nunsez&show_icons=true&count_private=true&hide_border=true&hide=issues" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunsez&layout=compact&hide_border=true" />
+</span>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunsez&show_icons=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunsez&layout=compact" />
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunsez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nunsez)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@nunsez&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
