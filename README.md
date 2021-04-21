@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nunsez.360091896)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunsez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
