@@ -37,4 +37,6 @@ Makefile     15 mins         █░░░░░░░░░░░░░░░░
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunsez&layout=compact&hide_border=true" />
 </span>
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nunsez&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
