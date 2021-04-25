@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSX          3 hrs 58 mins   ██████████████▒░░░░░░░░░░   57.29 % 
-JavaScript   1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.62 % 
-TypeScript   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Ruby         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Makefile     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JSX          9 hrs 51 mins   ████████████████▒░░░░░░░░   65.41 % 
+SCSS         1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+JavaScript   1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+TypeScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Ruby         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 <!--END_SECTION:waka-->
 
