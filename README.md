@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Ruby    4 mins          ████████████████████████▓   99.02 % 
+JavaScript   20 mins         ██████████████▒░░░░░░░░░░   57.52 % 
+JSON         11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.41 % 
+Ruby         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
 <!--END_SECTION:waka-->
 
