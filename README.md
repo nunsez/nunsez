@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Slim   2 hrs 43 mins   █████████████████▒░░░░░░░   69.90 % 
-JSX    58 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.88 % 
-SCSS   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Ruby   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JSX    1 hr 44 mins    ████████████████████████░   96.56 % 
+SCSS   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 <!--END_SECTION:waka-->
 
