@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSX     46 mins         ████████████████████████▓   99.14 % 
+
 ```
 <!--END_SECTION:waka-->
 
