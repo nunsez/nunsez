@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSON       14 mins         ██████████████████▒░░░░░░   73.00 % 
-Other      4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.16 % 
+JSX          3 hrs 10 mins   ████████████████░░░░░░░░░   64.46 % 
+JavaScript   1 hr 13 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.88 % 
+JSON         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Slim         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Ruby         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 
