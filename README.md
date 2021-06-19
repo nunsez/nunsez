@@ -4,7 +4,7 @@
 
 ### Glad to see you here &nbsp; ![](https://komarev.com/ghpvc/?username=nunsez&color=blue&label=visitors)
 
-⚡ I'm a frontend JavaScript developer. Currently learning TypeScript.
+⚡ I'm a frontend JavaScript developer.
 
 <!--
 **nunsez/nunsez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
