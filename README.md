@@ -6,6 +6,8 @@
 
 ⚡ I'm a frontend JavaScript developer.
 
+✨ My GitHub <a href="https://nunsez.github.io/" target="_blank">resume link</a>
+
 <!--
 **nunsez/nunsez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
