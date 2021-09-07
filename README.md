@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Ruby         9 hrs 7 mins    █████████████████████████   99.51 % 
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Ruby    19 hrs 37 mins  ██████████████████████▒░░   89.89 % 
+YAML    1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Text    25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Other   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+INI     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 
