@@ -4,7 +4,7 @@
 
 ### Glad to see you here &nbsp; ![](https://komarev.com/ghpvc/?username=nunsez&color=blue&label=visitors)
 
-⚡ I'm a frontend JavaScript developer.
+⚡ I'm a Web developer.
 
 ✨ My GitHub <a href="https://nunsez.github.io/" target="_blank">resume link</a>
 
