@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Ruby    10 hrs 2 mins   ██████████████████████░░░   87.54 % 
-SQL     1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-JSON    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Ruby   13 hrs 29 mins  ██████████████████████░░░   87.43 % 
+SQL    1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Bash   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+YAML   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JSON   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 
