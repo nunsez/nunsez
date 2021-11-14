@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Ruby    17 mins         ███████████████▒░░░░░░░░░   61.82 % 
-Other   9 mins          ████████▓░░░░░░░░░░░░░░░░   34.68 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
