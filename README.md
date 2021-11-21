@@ -26,7 +26,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Ruby    1 hr 16 mins    ████████████████████░░░░░   80.36 % 
+YAML    9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Slim    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JSON    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
 
