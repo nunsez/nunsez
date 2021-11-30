@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML       24 hrs 52 mins  ███████████████████░░░░░░   75.95 % 
-Makefile   3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Other      2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Bash       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Jinja2     54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+YAML       29 hrs 4 mins   ███████████████████▓░░░░░   78.35 % 
+Makefile   3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Other      2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Bash       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Jinja2     54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 <!--END_SECTION:waka-->
 
