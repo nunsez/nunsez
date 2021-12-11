@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Bash     1 hr 3 mins     ███████████████▓░░░░░░░░░   62.32 % 
-YAML     37 mins         █████████▒░░░░░░░░░░░░░░░   37.05 % 
+Bash     1 hr 3 mins     █████████████████████████   99.71 % 
 ```
 <!--END_SECTION:waka-->
 
