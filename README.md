@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python     1 hr 49 mins    ███████████░░░░░░░░░░░░░░   43.90 % 
-Makefile   1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   30.59 % 
-Other      28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-YAML       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Jinja2     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Ruby       2 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Python     1 hr 49 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.80 % 
+Makefile   1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Slim       58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Other      30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 ```
 <!--END_SECTION:waka-->
 
