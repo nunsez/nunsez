@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Ruby         22 hrs 59 mins  █████████████████░░░░░░░░   67.94 % 
-Slim         7 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.45 % 
-YAML         1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-SCSS         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JavaScript   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Ruby         19 hrs 34 mins  █████████████████▓░░░░░░░   71.25 % 
+Slim         5 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+YAML         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+SCSS         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JavaScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 <!--END_SECTION:waka-->
 
