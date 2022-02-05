@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Ruby    14 mins         ███████████████░░░░░░░░░░   59.53 % 
-Slim    5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.15 % 
-YAML    4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.05 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
