@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-XML    20 mins         ███████████████▒░░░░░░░░░   61.12 %
-Ruby   10 mins         ████████░░░░░░░░░░░░░░░░░   32.26 %
-JSON   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+JSON         1 hr 24 mins    █████████▒░░░░░░░░░░░░░░░   37.52 %
+Other        40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
 ```
 
 <!--END_SECTION:waka-->
