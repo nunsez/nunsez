@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         17 hrs 45 mins  ███████████████████████▓░   94.72 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Ruby         20 hrs 15 mins  ███████████████████████▓░   94.70 %
+Slim         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
