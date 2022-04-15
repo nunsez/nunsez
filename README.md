@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby                       11 hrs 16 mins  ███████████████▒░░░░░░░░░   61.74 %
-JavaScript                 3 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
-Slim                       1 hr 57 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Other                      35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Ruby                       8 hrs 52 mins   █████████████░░░░░░░░░░░░   51.39 %
+JavaScript                 5 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   31.99 %
+Slim                       1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Other                      35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
