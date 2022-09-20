@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   12 mins         ████████████████████████▓   98.74 %
-YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other        56 mins         █████████████████░░░░░░░░   67.46 %
 ```
 
 <!--END_SECTION:waka-->
