@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         24 hrs 34 mins  █████████████████████▓░░░   86.42 %
+Ruby         24 hrs 34 mins  █████████████████████▓░░░   86.41 %
 Slim         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 YAML         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 SCSS         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
