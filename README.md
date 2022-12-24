@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   14 mins         ███████████████████▒░░░░░   77.18 %
-XML    3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.51 %
-Rust   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Elixir            59 mins         ██████████████████████▓░░   90.36 %
+Other             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
