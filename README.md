@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Elixir            59 mins         ██████████████████████▓░░   90.36 %
-Other             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Elixir            59 mins         ██████████████████████▓░░   90.19 %
+Other             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
