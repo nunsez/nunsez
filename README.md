@@ -38,8 +38,8 @@ Other        1 hr 13 mins    █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <span>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nunsez&show_icons=true&count_private=true&hide_border=true&hide=issues" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunsez&layout=compact&hide_border=true" />
+<img height="160em" src="https://github-readme-stats-nunsez.vercel.app/api?username=nunsez&show_icons=true&count_private=true&hide_border=true&hide=issues" />
+<img src="https://github-readme-stats-nunsez.vercel.app/api/top-langs/?username=nunsez&layout=compact&hide_border=true" />
 </span>
 
 <!--
