@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         14 hrs 51 mins  █████████████░░░░░░░░░░░░   52.64 %
-Elixir       5 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-TypeScript   3 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Slim         2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-JavaScript   1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Ruby         14 hrs 11 mins  █████████████░░░░░░░░░░░░   51.86 %
+Elixir       6 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+Slim         1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+TypeScript   1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JavaScript   1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+JSON         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
