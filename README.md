@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-Ruby         1 hr 37 mins    █████████▓░░░░░░░░░░░░░░░   39.33 %
-TypeScript   1 hr 28 mins    █████████░░░░░░░░░░░░░░░░   35.61 %
-Elixir       38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-Markdown     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+```txt
+TypeScript   3 hrs 19 mins   ██████████████████▒░░░░░░   72.75 %
+Ruby         40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Markdown     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Elixir       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
