@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   2 hrs 20 mins   ████████████████████████▒   97.32 %
+Ruby         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
