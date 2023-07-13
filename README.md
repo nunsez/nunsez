@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 20 mins   ████████████████████████▒   97.32 %
-Ruby         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript   2 hrs 28 mins   ████████████████████████░   96.19 %
+Ruby         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
