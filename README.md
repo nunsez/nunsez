@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby     13 hrs 25 mins  ██████████████░░░░░░░░░░░   55.38 %
-Other    7 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.15 %
-ERB      1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Slim     1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Kotlin   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Ruby     12 hrs 49 mins  █████████████░░░░░░░░░░░░   51.57 %
+Other    8 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 %
+ERB      1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Slim     1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Kotlin   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
