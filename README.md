@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         9 hrs 39 mins   ██████████████████░░░░░░░   71.95 %
-Other        1 hr 58 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Elixir       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-TypeScript   43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Ruby         4 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   33.45 %
+Elixir       4 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.28 %
+Other        3 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 %
+ERB          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
