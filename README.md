@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby           16 hrs 38 mins  █████████████████▒░░░░░░░   69.73 %
-TSQL           1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Other          1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-ActionScript   1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Assembly       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Ruby           18 hrs 20 mins  █████████████████▓░░░░░░░   70.87 %
+Other          2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Assembly       59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+TSQL           53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+ActionScript   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
