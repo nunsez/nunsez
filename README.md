@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            42 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 %
-Other             38 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-Ruby              26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-Elixir            25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-HTML              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Ruby              26 mins         ██████████▓░░░░░░░░░░░░░░   43.18 %
+Elixir            25 mins         ██████████▒░░░░░░░░░░░░░░   41.75 %
+Other             6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Makefile          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
