@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby              26 mins         ██████████▓░░░░░░░░░░░░░░   43.18 %
-Elixir            25 mins         ██████████▒░░░░░░░░░░░░░░   41.75 %
-Other             6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Makefile          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
