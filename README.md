@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     2 hrs 29 mins   ██████████████████▓░░░░░░   74.06 %
-JSON     28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Elixir   23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
