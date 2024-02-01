@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir   1 hr 41 mins    █████████████░░░░░░░░░░░░   52.21 %
-Ruby     1 hr 11 mins    █████████░░░░░░░░░░░░░░░░   36.35 %
-Other    22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Ruby     1 hr 11 mins    ███████████▓░░░░░░░░░░░░░   46.50 %
+Elixir   59 mins         █████████▓░░░░░░░░░░░░░░░   38.87 %
+Other    22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
 ```
 
 <!--END_SECTION:waka-->
