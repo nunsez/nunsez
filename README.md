@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby    1 hr 10 mins    ███████████████████░░░░░░   76.35 %
-Other   21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
