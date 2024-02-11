@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir   38 mins         █████████████████████████   100.00 %
+Ruby         57 mins         ██████████▒░░░░░░░░░░░░░░   41.46 %
+Elixir       38 mins         ███████░░░░░░░░░░░░░░░░░░   27.58 %
+Makefile     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Slim         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+YAML         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 ```
 
 <!--END_SECTION:waka-->
