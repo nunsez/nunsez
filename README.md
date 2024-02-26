@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby       2 hrs 32 mins   ███████████████████▒░░░░░   76.73 %
-Other      31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Makefile   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Slim       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Makefile   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
