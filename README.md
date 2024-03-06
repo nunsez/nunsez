@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby   21 mins         ████████████████████████▒   96.92 %
-Slim   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-ERB    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
