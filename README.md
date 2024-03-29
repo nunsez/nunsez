@@ -27,10 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     3 mins          █████████████████▒░░░░░░░   68.69 %
-YAML     0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Ruby     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
-Docker   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
