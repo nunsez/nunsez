@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Slim         32 mins         ████████████▒░░░░░░░░░░░░   48.83 %
+TypeScript   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Ruby         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+ERB          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Other        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->
