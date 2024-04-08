@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Slim         32 mins         ████████████░░░░░░░░░░░░░   47.78 %
-TypeScript   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Ruby         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-ERB          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+JSON   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
