@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              37 mins         ███████████████▒░░░░░░░░░   61.44 %
+Other             17 mins         ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+JSON              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Git Config        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Batchfile         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
