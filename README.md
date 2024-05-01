@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 20 mins   ██████████████████████▓░░   90.17 %
-Kotlin            17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-XML               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
