@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             15 hrs 15 mins  ██████████████████████▓░░   90.07 %
-YAML             39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Kotlin           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Groovy           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Java              11 hrs 21 mins  ██████████████████████▒░░   89.43 %
+Kotlin            35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+GitIgnore file    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Groovy            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+YAML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
