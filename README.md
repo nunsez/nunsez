@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java       5 hrs 37 mins   █████████████████████▒░░░   85.96 %
-Kotlin     39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Makefile   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-YAML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Ruby       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
