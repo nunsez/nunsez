@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             4 mins          ██████████████▓░░░░░░░░░░   58.76 %
-Kotlin           2 mins          █████████▒░░░░░░░░░░░░░░░   37.99 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Java             41 mins         ██████████████████████░░░   88.48 %
+Kotlin           2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+GitIgnore file   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Groovy           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
