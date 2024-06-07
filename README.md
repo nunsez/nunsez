@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                        5 hrs 35 mins   ██████████████████▒░░░░░░   73.76 %
-Java Template Engine File   1 hr 37 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-SQL                         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Kotlin                      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Other                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Java                        7 hrs 37 mins   █████████████████▒░░░░░░░   69.95 %
+Java Template Engine File   1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Docker                      43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Kotlin                      27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+SQL                         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
