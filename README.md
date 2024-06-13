@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                        30 hrs 58 mins  ██████████████████▒░░░░░░   72.73 %
-Kotlin                      5 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-Java Template Engine File   1 hr 57 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Docker                      1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Java Properties             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Java                        28 hrs 8 mins   ██████████████████░░░░░░░   72.11 %
+Kotlin                      5 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+Java Template Engine File   1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Docker                      1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Java Properties             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
