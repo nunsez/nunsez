@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir   3 hrs 59 mins   ███████████████████████▒░   93.24 %
-Ruby     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Dart     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Elixir   4 hrs 46 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
