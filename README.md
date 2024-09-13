@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir   5 hrs 31 mins   █████████████████████████   100.00 %
+Elixir    5 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.16 %
+V         5 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   46.05 %
+JSON      39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+V shell   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
