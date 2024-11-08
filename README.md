@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         13 hrs 54 mins  ████████████████▒░░░░░░░░   64.68 %
-Bash         2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-Text         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Other        1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-Docker       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Ruby         17 hrs 13 mins  ██████████████▒░░░░░░░░░░   57.94 %
+V            2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Other        2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Bash         2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Text         1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
