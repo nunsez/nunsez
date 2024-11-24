@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         17 hrs 48 mins  ██████████████████████░░░   88.35 %
-YAML         1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Other        49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-TypeScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Vue.js       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Ruby    15 hrs 33 mins  ██████████████████████░░░   87.94 %
+YAML    1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Other   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
