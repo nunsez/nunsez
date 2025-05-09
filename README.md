@@ -27,11 +27,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         3 hrs 43 mins   ███████████████████▓░░░░░   79.11 %
-Bash         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Other        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Ruby   37 mins         █████████████████████████   99.83 %
+RBS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
