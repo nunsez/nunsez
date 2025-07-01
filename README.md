@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                10 hrs 24 mins  ██████████████░░░░░░░░░░░   55.78 %
-Elixir              6 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   35.69 %
-RBS                 41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Kotlin              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Gradle Kotlin DSL   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Ruby                13 hrs 8 mins   ████████████████░░░░░░░░░   63.94 %
+Elixir              5 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+Kotlin              48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+RBS                 34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Gradle Kotlin DSL   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
