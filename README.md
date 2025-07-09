@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                15 hrs 56 mins  ███████████████████▒░░░░░   77.32 %
-Kotlin              1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Elixir              51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-TypeScript          47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-XML                 24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Ruby         18 hrs 57 mins  ██████████████████████░░░   87.66 %
+RBS          1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Elixir       51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
