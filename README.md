@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ruby       5 hrs 49 mins   ████████████████████████░   96.49 %
+RBS        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
