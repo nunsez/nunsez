@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby       5 hrs 49 mins   ████████████████████████░   96.49 %
-RBS        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Ruby       11 hrs 12 mins  ████████████████████████▓   98.06 %
+RBS        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
