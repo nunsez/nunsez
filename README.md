@@ -27,11 +27,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Elixir     7 hrs 49 mins   ████████████▓░░░░░░░░░░░░   50.65 %
-Ruby       5 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   38.26 %
-Rust       51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-RBS        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-TOML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Elixir   5 hrs 44 mins   █████████████████████████   99.75 %
+Rust     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
